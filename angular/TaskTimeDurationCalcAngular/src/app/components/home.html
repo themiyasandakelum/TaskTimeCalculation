@@ -1,0 +1,56 @@
+<div class="container-bg">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-4"></div>
+      <div class="col-4">
+        <div
+          class="card"
+          style="width: 100%; margin-top: 50%; margin-left: 20%"
+        >
+          <div class="card-body">
+            <h5 class="card-title">Task Time Date Calculator </h5>
+            <h6 class="card-subtitle mb-2 text-body-secondary">
+            </h6>
+            <div class="card-data">
+              <label>Enter Starting date</label>
+              <input
+                class="form-control"
+                type="Date"
+                placeholder="Starting Dates"
+                aria-label="default input example"
+                [(ngModel)]="startingDate"
+                [min]="minDate"
+              />
+              <br />
+              <label>Enter Number of Dates </label>
+              <input
+                [(ngModel)]="numberOfDates"
+                class="form-control"
+                type="number"
+                aria-label="default input example"
+                min="1"
+                step="1"
+              />
+              <br />
+              <div >
+                Your end Date
+                <span>{{
+                  endDate | date : "dd/MM/yyyy"
+                }}</span>
+              </div>
+            </div>
+
+            <button
+              type="button"
+              class="btn btn-primary"
+              (click)="generateEndDate()"
+            >
+              Generate
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="col-4"></div>
+    </div>
+  </div>
+</div>

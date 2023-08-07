@@ -1,0 +1,68 @@
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\appsettings.json
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\TaskTimeDurationCalc.exe
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\TaskTimeDurationCalc.deps.json
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\TaskTimeDurationCalc.runtimeconfig.json
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\TaskTimeDurationCalc.dll
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\TaskTimeDurationCalc.pdb
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.csproj.AssemblyReference.cache
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.AssemblyInfoInputs.cache
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.AssemblyInfo.cs
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.csproj.CoreCompileInputs.cache
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets\msbuild.TaskTimeDurationCalc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets\msbuild.build.TaskTimeDurationCalc.props
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TaskTimeDurationCalc.props
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TaskTimeDurationCalc.props
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\scopedcss\bundle\TaskTimeDurationCalc.styles.css
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.csproj.CopyComplete
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.dll
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\refint\TaskTimeDurationCalc.dll
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.pdb
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.genruntimeconfig.cache
+C:\Users\Themiya\Documents\osos\new app\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\ref\TaskTimeDurationCalc.dll
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\appsettings.json
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\TaskTimeDurationCalc.exe
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\TaskTimeDurationCalc.deps.json
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\TaskTimeDurationCalc.runtimeconfig.json
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\TaskTimeDurationCalc.dll
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\TaskTimeDurationCalc.pdb
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.csproj.AssemblyReference.cache
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.AssemblyInfoInputs.cache
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.AssemblyInfo.cs
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.csproj.CoreCompileInputs.cache
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets\msbuild.TaskTimeDurationCalc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets\msbuild.build.TaskTimeDurationCalc.props
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TaskTimeDurationCalc.props
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TaskTimeDurationCalc.props
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\scopedcss\bundle\TaskTimeDurationCalc.styles.css
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.csproj.CopyComplete
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.dll
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\refint\TaskTimeDurationCalc.dll
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.pdb
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\TaskTimeDurationCalc.genruntimeconfig.cache
+C:\Users\Themiya\Documents\osos\new app\Back End\TaskTimeDurationCalc\TaskTimeDurationCalc\obj\Debug\net7.0\ref\TaskTimeDurationCalc.dll
